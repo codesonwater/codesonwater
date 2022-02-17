@@ -3,4 +3,4 @@
 
 - Currently working on my final project
 
-![Learning React](me.jpg)
+
